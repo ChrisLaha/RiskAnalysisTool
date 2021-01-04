@@ -8,3 +8,4 @@
 - Create correlation and heatmap in pandas and seaborn.
 - Create alpha, beta, and CAPM.
 - Deploy visualizations and ratios in panel.
+   
